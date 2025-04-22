@@ -1,2 +1,2 @@
 # ladders
-a cli and linting tool to scaffold opinionated python projects
+A CLI tool for scaffold opinionated Python projects
